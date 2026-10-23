@@ -1,7 +1,8 @@
 {
   "name": "agentflow-ai",
-  "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Autonomous AI Workflow Command Center with verified MCP tool execution, step-level proof, and human-in-the-loop approvals.",
+  "license": "Apache-2.0",
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
